@@ -245,7 +245,14 @@
   },
   {
     "_id": 215,
-    "email": "@nwmissouri.edu"
+    "email": "s534740@nwmissouri.edu",
+    "given": "Sravya Katpally",
+    "family": "Katpally",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": 64468,
+    "country": "USA",
+    "URL": "https://github.com/SravyaKatpally"
   },
   {
     "_id": 216,
